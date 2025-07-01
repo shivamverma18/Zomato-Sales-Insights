@@ -1,8 +1,8 @@
-# 🍽️ Zomato Sales Insights Dashboard 📊
+# 🛵🍽️ Zomato Sales Insights Dashboard 📊
 
 Welcome to the **Zomato Sales Insights Dashboard**, a Tableau-powered visualization project that presents detailed insights into Zomato’s order data. This dashboard was created to uncover actionable trends in sales, food preferences, hotel performance, and payment behavior over a short period.
 
-![Zomato Sales Dashboard](./Zomato_Screenshot.jpg)
+![Zomato Dashboard GIF Preview](./zomato_screen_dashboard.gif)
 
 ---
 
@@ -10,11 +10,11 @@ Welcome to the **Zomato Sales Insights Dashboard**, a Tableau-powered visualizat
 
 To analyze Zomato’s sales data and provide key business insights to help:
 
-- Identify top-performing restaurants
-- Understand food item popularity
-- Monitor order value trends over time
-- Study customer preferences in payment modes
-- Segment orders based on size and item type
+- Identify top-performing restaurants  
+- Understand food item popularity  
+- Monitor order value trends over time  
+- Study customer preferences in payment modes  
+- Segment orders based on size and item type  
 
 ---
 
@@ -62,3 +62,27 @@ To analyze Zomato’s sales data and provide key business insights to help:
 
 ---
 
+## 🛠️ Tools & Technologies Used
+
+- **Tableau** – for data visualization  
+- **Excel/CSV** – data source  
+- **GIF Tools** – for dynamic preview  
+
+---
+
+## 👨‍💻 Author
+
+**Shivam Verma**  
+[🔗 GitHub](https://github.com/shivamverma18) | [💼 LinkedIn](https://www.linkedin.com/in/shivamverma18)  
+📧 *your.email@example.com* (replace this with your actual email)
+
+---
+
+## 📃 License
+
+This project is licensed under the **MIT License**.  
+Feel free to fork, modify, and use with proper attribution.
+
+---
+
+⭐ **If you like this dashboard, don't forget to give a star!**
