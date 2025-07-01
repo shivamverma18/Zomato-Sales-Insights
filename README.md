@@ -62,28 +62,4 @@ To analyze Zomato’s sales data and provide key business insights to help:
 - 🧾 Order types help identify items driving large versus small ticket sales.
 
 ---
-
-## 🛠️ Tools & Technologies Used
-
-- **Tableau** – for data visualization  
-- **Excel/CSV** – data source  
-- **GIF Tools** – for dynamic preview  
-
----
-
-## 👨‍💻 Author
-
-**Shivam Verma**  
-[🔗 GitHub](https://github.com/shivamverma18) | [💼 LinkedIn](https://www.linkedin.com/in/shivamverma18)  
-📧 *your.email@example.com* (replace this with your actual email)
-
----
-
-## 📃 License
-
-This project is licensed under the **MIT License**.  
-Feel free to fork, modify, and use with proper attribution.
-
----
-
 ⭐ **If you like this dashboard, don't forget to give a star!**
