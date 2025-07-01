@@ -2,7 +2,8 @@
 
 Welcome to the **Zomato Sales Insights Dashboard**, a Tableau-powered visualization project that presents detailed insights into Zomato’s order data. This dashboard was created to uncover actionable trends in sales, food preferences, hotel performance, and payment behavior over a short period.
 
-![Zomato Dashboard GIF Preview](./zomato_screen_dashboard.gif)
+![zomato_screen_dashboard](https://github.com/user-attachments/assets/eb6fb3b7-f330-4a4b-8eaa-ec746965e4ff)
+
 
 ---
 
