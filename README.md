@@ -62,13 +62,3 @@ To analyze Zomato’s sales data and provide key business insights to help:
 
 ---
 
-## 🛠️ Tools & Technologies Used
-
-- **Tableau** – for data visualization
-- **Excel/CSV** – assumed as the data source
-- **Photoshop/PPT** – for design support (if used)
-
----
-
-## 📂 Project Structure
-
